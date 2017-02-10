@@ -101,6 +101,7 @@
     }
 
     _highlightView.frame = highlightViewRect;
+    //finish
 }
 
 @end
